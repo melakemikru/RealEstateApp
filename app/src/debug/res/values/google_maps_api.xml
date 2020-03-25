@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=20:62:77:42:2C:B5:49:9E:42:73:FD:48:C9:33:D1:C6:5C:46:96:6D%3Bcom.melake.realestateapp
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    20:62:77:42:2C:B5:49:9E:42:73:FD:48:C9:33:D1:C6:5C:46:96:6D
+
+    SHA-1 certificate fingerprint:
+    20:62:77:42:2C:B5:49:9E:42:73:FD:48:C9:33:D1:C6:5C:46:96:6D
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyC1lONNIR59_XXokW57gf2IvZYwBDZ-dEE</string>
+</resources>

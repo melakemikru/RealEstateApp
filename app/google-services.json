@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161059613677",
+    "firebase_url": "https://realestateapp-c9f57.firebaseio.com",
+    "project_id": "realestateapp-c9f57",
+    "storage_bucket": "realestateapp-c9f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161059613677:android:c90e6f01c5cc4b76cb15e4",
+        "android_client_info": {
+          "package_name": "com.melake.realestateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161059613677-nmv4g6jgo0uu02f320e3l5bgkm1ep3fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATcUsCdoX-RWZtXoGAwONrpCn9NKpM9pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161059613677-nmv4g6jgo0uu02f320e3l5bgkm1ep3fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
